@@ -25,8 +25,8 @@
         "type": 3
       },
       "seed": 825984941,
-      "version": 330,
-      "versionNonce": 106334915,
+      "version": 353,
+      "versionNonce": 697857676,
       "isDeleted": false,
       "boundElements": [
         {
@@ -34,7 +34,7 @@
           "id": "xHMW11kHxKX8JdrmuYihm"
         }
       ],
-      "updated": 1742882009305,
+      "updated": 1742882659781,
       "link": null,
       "locked": false
     },
@@ -58,11 +58,11 @@
       "index": "a0V",
       "roundness": null,
       "seed": 206517571,
-      "version": 295,
-      "versionNonce": 406763245,
+      "version": 318,
+      "versionNonce": 859375668,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1742882009306,
+      "updated": 1742882659781,
       "link": null,
       "locked": false,
       "text": "프로그래밍",
@@ -607,8 +607,8 @@
     {
       "id": "lbvGXbKLgJv8UGv3tzra2",
       "type": "text",
-      "x": 686.6393011926241,
-      "y": 351.66728749256174,
+      "x": 570.7278364010779,
+      "y": 195.87635878434196,
       "width": 102.56394958496094,
       "height": 35,
       "angle": 0,
@@ -624,11 +624,11 @@
       "index": "aB",
       "roundness": null,
       "seed": 1921195109,
-      "version": 372,
-      "versionNonce": 143358957,
+      "version": 404,
+      "versionNonce": 1712753932,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1742882388896,
+      "updated": 1742882655613,
       "link": null,
       "locked": false,
       "text": "Tomcat",
