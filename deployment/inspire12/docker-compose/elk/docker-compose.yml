@@ -36,7 +36,7 @@ services:
     command: >
       logstash -e '
       input { tcp { port => 5000 codec => json } }
-      output { elasticsearch { hosts => ["elasticsearch:9200"] } }'
+      output { elasticsearch { hosts => ["elasticsearch:9200"] index => "logstash-%{+YYYY.MM.dd}" } }'
 
   kibana:
     image: kibana:${ELK_VERSION}
