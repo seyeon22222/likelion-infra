@@ -1,3 +1,6 @@
 .idea/
 .docker/
+.*DS_store*
+
 data/
+
