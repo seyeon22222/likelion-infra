@@ -1,3 +1,4 @@
+# TODO
 services:
   nginx-likelion:
     image: nginx
@@ -9,4 +10,5 @@ services:
     image: likelion-backend:latest
 
   likelion-backend-2:
-      image: likelion-backend:latest
+    image: likelion-backend:latest
+    
